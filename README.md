@@ -73,7 +73,6 @@ The script solves the problem of **manually entering hundreds of email addresses
 /ComplianceSearch
 │── ComplianceSearch.ps1   # Main PowerShell script
 │── README.md              # Documentation
-│── EmailList.csv          # Example input file (ignored in .gitignore)
 ```
 
 ---
